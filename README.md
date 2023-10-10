@@ -8,7 +8,7 @@ The Chat with pdf is a Python application that allows you to chat with multiple 
 ## How It Works
 ------------
 
-![MultiPDF Chat App Diagram](./docs/PDF-LangChain.jpg)
+![MultiPDF Chat App Diagram](PDF-LangChain.jpg)
 
 The application follows these steps to provide responses to your questions:
 
